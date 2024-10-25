@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+    <listeners>
+        <listener class-name="AutomateRoyalCanin.BaseTest.ListenersTest" />
+    </listeners>
+    <test thread-count="5" name="Test">
+        <classes>
+            <class name="AutomateRoyalCanin.TestComponent.LoginPageTest" />
+            <class name="AutomateRoyalCanin.TestComponent.HomePageTest">
+                <methods>
+                    <include name="VerifyUserIcon" />
+                    <include name="GoToContactPage" />
+                </methods>
+            </class>
+            <class name="AutomateRoyalCanin.TestComponent.ContactFormPageTest" />
+        </classes>
+    </test>
+</suite>

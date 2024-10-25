@@ -1,0 +1,10 @@
+AutomateRoyalCanin\PageObjects\WhereToBuyPage.class
+AutomateRoyalCanin\PageObjects\ProductDetailsPage.class
+AutomateRoyalCanin\PageObjects\ProductListPage.class
+AutomateRoyalCanin\PageObjects\HomePage.class
+AutomateRoyalCanin\PageObjects\SelectCountryPage.class
+AutomateRoyalCanin\PageObjects\GetFoodForPetPage.class
+AutomateRoyalCanin\PageObjects\LoginPage.class
+AutomateRoyalCanin\AbstractComponent\AbstractComponent.class
+AutomateRoyalCanin\PageObjects\ContactFormPage.class
+AutomateRoyalCanin\PageObjects\RegistrationPage.class

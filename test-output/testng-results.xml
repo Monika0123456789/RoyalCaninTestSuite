@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-25T11:43:30 IST" name="Suite" finished-at="2024-10-25T11:44:15 IST" duration-ms="45098">
+    <groups>
+    </groups>
+    <test started-at="2024-10-25T11:43:30 IST" name="Test" finished-at="2024-10-25T11:44:15 IST" duration-ms="45098">
+      <class name="AutomateRoyalCanin.TestComponent.ProductDetailsPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomateRoyalCanin.TestComponent.ProductDetailsPageTest@6399551e]" started-at="2024-10-25T11:43:59 IST" name="setup" finished-at="2024-10-25T11:43:59 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyProductInPDP()[pri:0, instance:AutomateRoyalCanin.TestComponent.ProductDetailsPageTest@6399551e]" started-at="2024-10-25T11:43:59 IST" name="VerifyProductInPDP" finished-at="2024-10-25T11:44:15 IST" duration-ms="15773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyProductInPDP -->
+      </class> <!-- AutomateRoyalCanin.TestComponent.ProductDetailsPageTest -->
+      <class name="AutomateRoyalCanin.TestComponent.LoginPageTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:AutomateRoyalCanin.TestComponent.LoginPageTest@6179e425]" started-at="2024-10-25T11:43:22 IST" name="launchApplication" finished-at="2024-10-25T11:43:30 IST" duration-ms="8256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="loginTest()[pri:0, instance:AutomateRoyalCanin.TestComponent.LoginPageTest@6179e425]" started-at="2024-10-25T11:43:30 IST" name="loginTest" finished-at="2024-10-25T11:43:38 IST" duration-ms="7288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- AutomateRoyalCanin.TestComponent.LoginPageTest -->
+      <class name="AutomateRoyalCanin.TestComponent.ProductListPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomateRoyalCanin.TestComponent.ProductListPageTest@1c32386d]" started-at="2024-10-25T11:43:51 IST" name="setup" finished-at="2024-10-25T11:43:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyFilterContainer()[pri:0, instance:AutomateRoyalCanin.TestComponent.ProductListPageTest@1c32386d]" started-at="2024-10-25T11:43:51 IST" name="VerifyFilterContainer" finished-at="2024-10-25T11:43:59 IST" duration-ms="7369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyFilterContainer -->
+      </class> <!-- AutomateRoyalCanin.TestComponent.ProductListPageTest -->
+      <class name="AutomateRoyalCanin.TestComponent.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomateRoyalCanin.TestComponent.HomePageTest@79351f41]" started-at="2024-10-25T11:43:38 IST" name="setup" finished-at="2024-10-25T11:43:38 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="VerifyUserIcon()[pri:1, instance:AutomateRoyalCanin.TestComponent.HomePageTest@79351f41]" started-at="2024-10-25T11:43:38 IST" name="VerifyUserIcon" finished-at="2024-10-25T11:43:49 IST" duration-ms="10807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyUserIcon -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:AutomateRoyalCanin.TestComponent.HomePageTest@79351f41]" started-at="2024-10-25T11:43:49 IST" name="setup" finished-at="2024-10-25T11:43:49 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="GoToPLP()[pri:2, instance:AutomateRoyalCanin.TestComponent.HomePageTest@79351f41]" started-at="2024-10-25T11:43:49 IST" name="GoToPLP" finished-at="2024-10-25T11:43:51 IST" duration-ms="1822" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToPLP -->
+      </class> <!-- AutomateRoyalCanin.TestComponent.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
